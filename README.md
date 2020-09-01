@@ -1,8 +1,8 @@
 # Lobot-Mini
 An ESP32-based controller for FRA Antweight (SPARC Fairyweight) robots
 
-![Lobot Mini Render](picures/ESPAnt.jpg)
-![Lobot Mini Underside Render](./picures/ESPAnt_Underside.jpg)
+![](ESPAnt.jpg)
+![](ESPAnt_Underside.jpg)
 
 # NOTE:
 **Many aspects of this project are incomplete!** I have just created the repo as a way to gauge interest and collect feedback on the project. If there is enough interest I will progress the project by developing Arduino-based firmware for the ESP32 and an Android app to control it.
@@ -21,4 +21,4 @@ Over the last couple of years, in my spare time, I've been developing a simple l
 - Motor Current: TBD
 
 ## Pinout
-![Lobot Mini Pinout](./picures/ESPAnt_Pinout.png)
+![](ESPAnt_Pinout.png)
