@@ -1,7 +1,7 @@
 # Lobot-Mini
 An ESP32-based controller for FRA Antweight (SPARC Fairyweight) robots
 
-![Lobot Mini Render](./picures/ESPAnt.jpg)
+![Lobot Mini Render](picures/ESPAnt.jpg)
 ![Lobot Mini Underside Render](./picures/ESPAnt_Underside.jpg)
 
 # NOTE:
